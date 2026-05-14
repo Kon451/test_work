@@ -1,0 +1,13 @@
+node_modules
+**/node_modules
+**/dist
+**/coverage
+.git
+.gitignore
+.env
+.env.local
+*.log
+.idea
+.vscode
+**/*.tsbuildinfo
+README.md
